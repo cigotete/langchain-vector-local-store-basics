@@ -8,6 +8,7 @@ langchain = "*"
 pypdf = "*"
 openai = "*"
 python-dotenv = "*"
+tiktoken = "*"
 
 [dev-packages]
 
